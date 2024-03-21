@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lilli\\OneDrive\\Desktop\\Robbys_Homework\\SWDV 271\\Week 10\\Hour11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{423BFB67-DAD1-8EE9-BC75-B5C8A76BBB53}|Assembly-CSharp.csproj|c:\\users\\lilli\\onedrive\\desktop\\robbys_homework\\swdv 271\\week 10\\hour11\\assets\\prefabgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423BFB67-DAD1-8EE9-BC75-B5C8A76BBB53}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrefabGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\lilli\\OneDrive\\Desktop\\Robbys_Homework\\SWDV 271\\Week 10\\Hour11\\Assets\\PrefabGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\PrefabGenerator.cs",
+              "ToolTip": "C:\\Users\\lilli\\OneDrive\\Desktop\\Robbys_Homework\\SWDV 271\\Week 10\\Hour11\\Assets\\PrefabGenerator.cs",
+              "RelativeToolTip": "Assets\\PrefabGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T19:28:15.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
